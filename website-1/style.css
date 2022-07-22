@@ -69,6 +69,10 @@ body{
     background-color: #DD0000;
     color: #fff;
 }
+.para1{
+    text-decoration: none;
+    color: #fff;
+}
 .section3{
     width: 800px;
     display: inline-block;
